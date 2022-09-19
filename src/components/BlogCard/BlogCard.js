@@ -1,6 +1,5 @@
 import React from 'react';
 import './BlogCard.css';
-
 export default function BlogCard({ title, subtitle, text, image }) {
   return (
     <div className="blog-card">
